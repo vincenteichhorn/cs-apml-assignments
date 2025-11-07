@@ -12,6 +12,7 @@ numpy = "^2.3.4"
 pandas = "^2.3.3"
 ipykernel = "^7.0.1"
 matplotlib = "^3.10.7"
+plotly = "^6.4.0"
 
 
 [build-system]
