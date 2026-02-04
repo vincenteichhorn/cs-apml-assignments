@@ -20,6 +20,7 @@ scipy = "^1.16.3"
 scikit-learn = "^1.7.2"
 tqdm = "^4.67.1"
 imageio = "^2.37.2"
+seaborn = "^0.13.2"
 
 [build-system]
 requires = ["poetry-core"]
